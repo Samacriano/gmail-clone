@@ -12,8 +12,8 @@ import PersonIcon from "@material-ui/icons/Person";
 import DuoIcon from "@material-ui/icons/Duo";
 import PhoneIcon from "@material-ui/icons/Phone";
 
-import SidebarOptions from "./SidebarOptions";
-import "./Sidebar.css";
+import SidebarOptions from "./sidebarOptions.component";
+import "./sidebar.styles.css";
 
 function Sidebar() {
   return (

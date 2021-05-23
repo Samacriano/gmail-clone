@@ -6,7 +6,7 @@ import ArrowDropDownIcon from "@material-ui/icons/ArrowDropDown";
 import AppsIcon from "@material-ui/icons/Apps";
 import NotificationsIcon from "@material-ui/icons/Notifications";
 
-import "./Header.css";
+import "./header.styles.css";
 
 function Header() {
   return (
